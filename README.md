@@ -1,11 +1,7 @@
-# Claude Architect workshop: the book
+# Claude Architect workshop book (retired)
 
-Every lesson of the Claude Architect workshop as one book, for the Claude Certified Architect exams,
-Foundations and Professional. Read it at
-[learnwithparam.github.io/claude-architect-workshop-book](https://learnwithparam.github.io/claude-architect-workshop-book/),
-or download the [PDF](claude-architect-workshop.pdf) or the [EPUB](claude-architect-workshop.epub).
+The book and PDF are retired. Each lesson page and the new walkthrough replace them, and they stay current with the code.
 
-The hands-on labs, recorded runs and mock exams come with the workshop at
-[learnwithparam.com](https://learnwithparam.com). More from the same team is at [kaas.team](https://kaas.team).
+Start here: https://github.com/learnwithparam/claude-architect-workshop (read `docs/walkthrough.md` first).
 
-All rights reserved. You may read it here and share the link; do not copy or repost it.
+This repo is archived and no longer updated.
